@@ -34,10 +34,32 @@ To analyze sales performance across regions, time, products, and sales personnel
 
 - Line Chart: Monthly trend of average price.
 
-- Bar Charts:
+- Bar Charts: Price by Region, Quantity by Item, Price by Salesperson
 
- Price by Region
+## Dashboard
 
- Quantity by Item
+![Sale Data Analysis](https://github.com/user-attachments/assets/18d1e470-1f95-4836-8380-44989d7bb8dd)
 
- Price by Salesperson
+## Key Findings
+
+- Revenue and Quantity both dropped 25% YoY, indicating reduced sales activity.
+
+- Average Price remained stable (+1%), suggesting price is not the core issue.
+
+- Texas was the highest grossing region ($117K), followed closely by California.
+
+- Item 2 was the top selling product by quantity.
+
+- Anna Weber and Laura Larsen were the top performing salespeople, both at $276K.
+
+## Insights & Recommendations
+
+- Investigate causes behind volume drop, which is likely tied to reduced demand or fewer transactions.
+
+- Double down on high performing regions (e.g., Texas) and top reps (Anna, Laura) through incentives or expansion.
+
+- Evaluate promotion or bundling strategies for best selling items like Item 2.
+
+- Explore underperforming months (October–December) to understand and address the sharp decline.
+
+- Maintain current pricing strategy while focusing on increasing transaction volume.
